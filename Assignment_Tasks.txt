@@ -1,0 +1,49 @@
+Day 1: (Networking)
+-----------------
+Assignment 1: explain network terminology.
+Assignment 2: Draw your Home Network Topology and explain how you are accessing the RPS Lab environment.
+ 
+ 
+Day 2: (SDLC)
+-----------------
+Assignment 1: SDLC Overview - Create a one-page infographic that outlines the SDLC phases (Requirements, Design, Implementation, Testing, Deployment), highlighting the importance of each phase and how they interconnect.
+ 
+Assignment 2: Develop a case study analyzing the implementation of SDLC phases in a real-world engineering project. Evaluate how Requirement Gathering, Design, Implementation, Testing, Deployment, and Maintenance contribute to project outcomes.
+ 
+Assignment 3: Research and compare SDLC models suitable for engineering projects. Present findings on Waterfall, Agile, Spiral, and V-Model approaches, emphasizing their advantages, disadvantages, and applicability in different engineering contexts.
+ 
+ 
+Day 3: (TDD, BDD, FDD)
+----------------- 
+Assignment 1: Create an infographic illustrating the Test-Driven Development (TDD) process. Highlight steps like writing tests before code, benefits such as bug reduction, and how it fosters software reliability.
+ 
+Assignment 2: Produce a comparative infographic of TDD, BDD, and FDD methodologies. Illustrate their unique approaches, benefits, and suitability for different software development contexts. Use visuals to enhance understanding.
+ 
+ 
+Day 4: (Scrum, Kanban)
+-----------------
+1. difference between scrum vs Kanban
+2. write 3 user stories with acceptance criteria.
+3. write product backlog and backlog for your project.
+4. set a Kanban board for your project.
+
+
+Day 5: (Linux)
+-----------------
+   1. write some 30 Linux commands. 
+   2. basic task 
+       a. write a command to create a file named demo.txt inside Movies directory 
+       b. copy  hello.txt files from Desktop to Downloads directory 
+       c. Write a command to display all the files from Movies Directory
+       d. display first 15 lines of demo.txt file
+       e. using cat command, create a new file and write the data to the file.
+       f. read the file content of demo.txt
+   3. explain absolute and relative path
+
+
+Day 6: (Git)
+-----------------
+   1. explain the Architecture of Git
+   2. explain all the git commands.
+   3. write a step to create a new branch and merge with master branch
+   4. explain fork and git clone with example.
